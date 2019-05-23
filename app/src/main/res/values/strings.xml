@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">UTS-AKB-IF13-10116651</string>
+    <string name="red">UTS-AKB-IF13-10116651</string>
+    <string name="blue">UTS-AKB-IF13-10116651</string>
+    <string name="green">UTS-AKB-IF13-10116651</string>
+
+    <string name="home">Home</string>
+    <string name="profil">Profil</string>
+    <string name="kontak">Kontak</string>
+    <string name="daftar_teman">Daftar Teman</string>
+    <string name="nim">NIM</string>
+    <string name="nama">NAMA</string>
+    <string name="kelas">KELAS</string>
+    <string name="deskripsi">DESKRIPSI</string>
+</resources>
